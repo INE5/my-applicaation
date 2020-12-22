@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLMADAME</string>
+    <string name="not_having_an_account">Not having an account?</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+</resources>
